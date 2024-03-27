@@ -1,0 +1,105 @@
+/*body {
+    background-color: #0B1D26;
+    margin: 0;
+    font-family: 'Gilroy';
+    background-image: url("/img/bg/bg.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: rgb(80, 81, 81);
+
+}
+
+/*BASE*/
+.container-wide {
+    margin: 0 auto;
+    width: 1760px;
+    padding: 0 15px;
+
+}
+
+.row {
+    display: flex;
+
+}
+
+.space-between {
+    margin-left: 25px;
+    margin-right: 25px;
+    justify-content: space-between;
+
+
+}
+
+/*HEDER*/
+.header {
+    padding-top: 64px;
+}
+
+
+.logo {
+    font-family: 'Playfair Display SC' serif;
+    font-size: 32px;
+    font-weight: 700px;
+
+}
+
+.nav {
+    font-weight: 700;
+    font-size: 18px;
+
+}
+
+.nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.nav li+li {
+    margin-left: 40px;
+
+}
+
+.nav li {}
+
+.nav a {
+    color: rgb(80, 81, 81);
+    text-decoration: none;
+    transition: color 0.2s ease-in;
+}
+
+.nav a:hover {
+    color: #FBD784;
+}
+
+.account {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(80, 81, 81);
+    transition: color 0.2s ease-in;
+}
+
+.account:hover {
+    color: #FBD784;
+}
+
+.logo {
+    color: #d7d7d5;
+}
+
+.nav-wrapper {
+    margin-bottom: 198px;
+
+}
+
+/*HERO*/
+
+.hero {}
+
+.hero-heading {}
+
+.hero-category {}
+
+.hero-scroll {}*/
